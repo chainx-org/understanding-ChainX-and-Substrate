@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+blockchain.db
+
+.DS_Store
+
+_book/
+node_modules/
+
+### Above combination will ignore all files without extension ###
