@@ -12,6 +12,7 @@
 ### Substrate
 
 - [Substrate 设计总览](Substrate/Substrate 设计总览.md)
+- [Substrate 设计总览（二）](Substrate/Substrate 设计总览（二）.md)
 - [Substrate 源码解析与运用](Substrate/substrate源码解析与运用.md)
 - [Substrate 的前世今生](Substrate/overview.md)
 
